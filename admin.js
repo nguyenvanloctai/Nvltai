@@ -1,8 +1,8 @@
 /**
-* @author    Nhat Vu
-* @github    https://github.com/nhatcoder2003
-* @channel   https://youtube.com/@nvcoder
-* @facebook  https://www.facebook.com/vuminhnhat10092003
+* @author    NGUYỄN VĂN LỘC TÀI LEGEND
+* @github    ĐỐ MÀY BIẾT
+* @channel   PHÈN ĐÉO SÀI
+* @facebook  https://www.facebook.com/nvltai.info
 */
 import {
   resolve as resolvePath
