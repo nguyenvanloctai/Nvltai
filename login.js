@@ -1,8 +1,8 @@
 /**
-* @author    Nhat Vu
-* @github    https://github.com/nhatcoder2003
-* @channel   https://youtube.com/@nvcoder
-* @facebook  https://www.facebook.com/vuminhnhat10092003
+* @author    NGUYỄN VĂN LỘC TÀI REAL
+* @github    MƠ ĐI RỒI SÀI KÉ
+* @channel   CON MÁ M
+* @facebook  https://www.facebook.com/nvltai.info
 */
 import nhatcoder from 'nhatcoder-fb-api';
 import Banner from './System/Banner.js';
