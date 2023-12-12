@@ -4,7 +4,7 @@ const config = {
     permissions: [2],
     description: "Run bot scripts",
     usage: "<script>",
-    credits: "XaviaTeam",
+    credits: "ltai",
     isAbsolute: true
 }
 
