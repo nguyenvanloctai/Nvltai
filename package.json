@@ -1,7 +1,7 @@
 {
   "name": "gbot-war-v2",
   "version": "2.2.1",
-  "description": "Gbot is a utility for mass spamming and cursing others in messager group mailboxes developed by NhatVu",
+  "description": "Gbot is a utility for mass spamming and cursing others in messager group mailboxes developed by LTAI",
   "main": "index.js",
   "scripts": {
     "start": "sh Shell/Start.sh",
@@ -13,20 +13,20 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nhatcoder2003/Gbot-War.git"
+    "url": ""
   },
   "keywords": [
-    "Nhatcoder",
+    "LTAI2006",
     "spam",
     "messenger",
     "gbot"
   ],
-  "author": "Nhat Vu",
+  "author": "LTAIIII",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nhatcoder2003/Gbot-War/issues"
+    "url": "NGUYỄN VĂN LỘC TÀI BÁ/issues"
   },
-  "homepage": "https://github.com/nhatcoder2003/Gbot-War#readme",
+  "homepage": "NVLTAIIIII#readme",
   "dependencies": {
     "@replit/database": "^2.0.5",
     "axios": "^1.4.0",
