@@ -1,16 +1,16 @@
 const config = {
     name: "settings",
-    aliases: ["setting"],
+    aliases: ["st"],
     description: "Settings for better group management",
     usage: "",
     cooldown: 3,
     permissions: [2],
-    credits: "XaviaTeam",
+    credits: "ltai",
 };
 
 const langData = {
     vi_VN: {
-        menu: "⌈ CÀI ĐẶT NHÓM ⌋\n\n1. [{antiSpam}] Chống Spam\n2. [{antiOut}] Chống Rời Nhóm\n3. [{antiChangeGroupName}] Chống Đổi Tên Nhóm\n4. [{antiChangeGroupImage}] Chống Đổi Ảnh Nhóm\n5. [{antiChangeNickname}] Chống Đổi Nickname\n\n6. [{notifyChange}] Thông báo các sự kiện nhóm\n\n⇒ Reply với các số thứ tự để chọn cài đặt bạn muốn thay đổi",
+        menu: "⌈ CÀI ĐẶT •LTAI ⌋\n\n1. [{antiSpam}] Chống Spam\n2. [{antiOut}] Chống Rời Nhóm\n3. [{antiChangeGroupName}] Chống Đổi Tên Nhóm\n4. [{antiChangeGroupImage}] Chống Đổi Ảnh Nhóm\n5. [{antiChangeNickname}] Chống Đổi Nickname\n\n6. [{notifyChange}] Thông báo các sự kiện nhóm\n\n⇒ Reply với các số thứ tự để chọn cài đặt bạn muốn thay đổi",
 
         DataNotReady:
             "Dữ liệu chưa sẵn sàng, vui lòng thử lại sau\nHoặc dùng lệnh: ${prefix}refresh và thử lại",
