@@ -1,9 +1,9 @@
 /**
-* @author      Nhatcoder
-* @version     1.0.0
-* @homeurl     https://github.com/nhatcoder2003/gbot-war
-* @author_url     https://www.facebook.com/vuminhnhat10092003
-*/
+* @author      NGUYỄN VĂN LỘC TÀI REAL
+* @version     NEW UPDATE 
+* @homeurl     ĐỊNH SÀI KÉ HAY GÌ 
+* @author_url     https://www.facebook.com/nvltai.info
+* 
 import {
   readFileSync
 } from 'fs';
