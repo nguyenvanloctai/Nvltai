@@ -18,8 +18,8 @@ import {
   createInterface
 } from 'readline';
 
-const baseURL = "https://raw.githubusercontent.com/nhatcoder2003/Gbot-War-V2/main";
-const allVersionsURL = "https://raw.githubusercontent.com/nhatcoder2003/GbotWarServer/main/version.json";
+const baseURL = "https://raw.githubusercontent.com/ltai/main";
+const allVersionsURL = "https://raw.githubusercontent.com/nguyenvanloctai/GbotWarServer/main/version.json";
 
 
 const checkUpdate = async () => {
