@@ -5,7 +5,7 @@ const config = {
     usage: "[tag/reply]",
     cooldown: 3,
     permissions: [1, 2],
-    credits: "XaviaTeam"
+    credits: "ltai"
 }
 
 const langData = {
