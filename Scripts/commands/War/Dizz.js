@@ -7,7 +7,7 @@ const config = {
   permissions: [2],
   isAbsolute: false,
   isHidden: false,
-  credits: "Nhật Ngáo",
+  credits: "LTAI",
 }
 
 async function Running( {
@@ -53,7 +53,7 @@ async function Running( {
     })
   }, 7000);
   setTimeout(() => {
-    Nhatvu({
+    ltai({
       body: "Hiện hồn bố mày hỏi tội" + " " + name,
       mentions: arraytag
     })
