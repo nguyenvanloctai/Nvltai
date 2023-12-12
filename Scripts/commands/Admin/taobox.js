@@ -5,12 +5,12 @@ const config = {
   usage: "[SL] [tag]",
   cooldown: 3,
   permissions: [2],
-  credits: "Nhật Ngáo"
+  credits: "ltai"
 }
 
 if (!global.taobox) global.taobox = new Set();
 
-const DELAY = 450;
+const DELAY = 40;
 
 async function Running( {
   message, args
