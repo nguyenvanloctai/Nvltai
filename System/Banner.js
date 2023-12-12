@@ -3,7 +3,7 @@
 * @version     NEW UPDATE 
 * @homeurl     ĐỊNH SÀI KÉ HAY GÌ 
 * @author_url     https://www.facebook.com/nvltai.info
-* 
+*/
 import {
   readFileSync
 } from 'fs';
